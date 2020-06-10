@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/rickandmorty-react/static/css/main.5cb9f990.chunk.css",
-    "main.js": "/rickandmorty-react/static/js/main.e1f4d3e9.chunk.js",
-    "main.js.map": "/rickandmorty-react/static/js/main.e1f4d3e9.chunk.js.map",
+    "main.js": "/rickandmorty-react/static/js/main.1aaab0c2.chunk.js",
+    "main.js.map": "/rickandmorty-react/static/js/main.1aaab0c2.chunk.js.map",
     "runtime-main.js": "/rickandmorty-react/static/js/runtime-main.dba0b412.js",
     "runtime-main.js.map": "/rickandmorty-react/static/js/runtime-main.dba0b412.js.map",
-    "static/js/2.eacd6912.chunk.js": "/rickandmorty-react/static/js/2.eacd6912.chunk.js",
-    "static/js/2.eacd6912.chunk.js.map": "/rickandmorty-react/static/js/2.eacd6912.chunk.js.map",
+    "static/js/2.b34c6916.chunk.js": "/rickandmorty-react/static/js/2.b34c6916.chunk.js",
+    "static/js/2.b34c6916.chunk.js.map": "/rickandmorty-react/static/js/2.b34c6916.chunk.js.map",
     "index.html": "/rickandmorty-react/index.html",
-    "precache-manifest.97aa51fa94322bd535132b558d1907b4.js": "/rickandmorty-react/precache-manifest.97aa51fa94322bd535132b558d1907b4.js",
+    "precache-manifest.f2ecffcbd89a96683fef4c18cf93fca2.js": "/rickandmorty-react/precache-manifest.f2ecffcbd89a96683fef4c18cf93fca2.js",
     "service-worker.js": "/rickandmorty-react/service-worker.js",
     "static/css/main.5cb9f990.chunk.css.map": "/rickandmorty-react/static/css/main.5cb9f990.chunk.css.map",
-    "static/js/2.eacd6912.chunk.js.LICENSE.txt": "/rickandmorty-react/static/js/2.eacd6912.chunk.js.LICENSE.txt",
+    "static/js/2.b34c6916.chunk.js.LICENSE.txt": "/rickandmorty-react/static/js/2.b34c6916.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/rickandmorty-react/static/media/logo.75509f2e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dba0b412.js",
-    "static/js/2.eacd6912.chunk.js",
+    "static/js/2.b34c6916.chunk.js",
     "static/css/main.5cb9f990.chunk.css",
-    "static/js/main.e1f4d3e9.chunk.js"
+    "static/js/main.1aaab0c2.chunk.js"
   ]
 }
