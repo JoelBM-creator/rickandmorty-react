@@ -65,6 +65,6 @@ You will also see any lint errors in the console.
 <br />
 ## VIEW DEMO
 ### `Web browser View`
-![Web browser view](RickAndMorty-PC.png)
+![Web browser view](https://raw.githubusercontent.com/JoelBM-creator/rickandmorty-react/master/RickAndMorty-Handy.PNG)
 ### `Handy View`
 ![View page in the Handy](RickAndMorty-Handy.png)
