@@ -1,0 +1,1 @@
+{"version":3,"sources":["master.css"],"names":[],"mappings":"AAAA,KACI,kBACJ,CACA,KACI,+BACJ,CAEA,iBACI,gCACJ","file":"main.5cb9f990.chunk.css","sourcesContent":["html {\r\n    background: #E6E888;\r\n}\r\nbody {\r\n    font-family: 'Oswald', sans-serif;\r\n}\r\n\r\n.background-text {\r\n    font-family: 'Poppins', sans-serif;\r\n}\r\n"]}
